@@ -1,0 +1,36 @@
+Nome: ITAPARICA
+Codigo Estacao: 83227
+Latitude: -12.88
+Longitude: -38.68
+Altitude: 31
+Situacao: Desativada
+Data Inicial: 1970-01-01
+Data Final: 1971-12-30
+Periodicidade da Medicao: Mensal
+
+Data Medicao;DIRECAO PREDOMINANTE DO VENTO, MENSAL(° (gr));EVAPORACAO DO PICHE, MENSAL(mm);EVAPOTRANSPIRACAO POTENCIAL, BH MENSAL(mm);EVAPOTRANSPIRACAO REAL, BH MENSAL(mm);INSOLACAO TOTAL, MENSAL(h);NEBULOSIDADE, MEDIA MENSAL(décimos);NUMERO DE DIAS COM PRECIP. PLUV, MENSAL(número);PRECIPITACAO TOTAL, MENSAL(mm);PRESSAO ATMOSFERICA, MEDIA MENSAL(mB);TEMPERATURA MAXIMA MEDIA, MENSAL(°C);TEMPERATURA MEDIA COMPENSADA, MENSAL(°C);TEMPERATURA MINIMA MEDIA, MENSAL(°C);UMIDADE RELATIVA DO AR, MEDIA MENSAL(%);VENTO, VELOCIDADE MAXIMA MENSAL(m/s);VENTO, VELOCIDADE MEDIA MENSAL(m/s);VISIBILIDADE, MEDIA MENSAL(codigo);
+1970-01-31;14;96;null;null;null;4.731183;4;114;null;29.354839;null;null;80.524194;10;3.44086;36.451613;null;
+1970-02-28;18;108.5;null;null;null;5.108434;3;73.4;null;29.792857;null;null;81.017857;10;3.02381;32.321429;null;
+1970-03-31;18;96.4;null;null;null;5.215054;5;88;null;29.258065;null;null;79.282258;8;2.688172;27.580645;null;
+1970-04-30;18;71;null;null;null;6.2;15;359.6;null;28.533333;25.513333;22.286667;83.675;6;2.912222;25.333333;null;
+1970-05-31;18;86.6;null;null;null;5.634409;11;290.8;null;27.780645;24.760645;21.554839;83.419355;10;2.806452;26.129032;null;
+1970-06-30;18;61.6;null;null;null;6.4;11;234.3;null;26.716667;23.914;20.433333;83.858333;10;3.311111;24.666667;null;
+1970-07-31;18;51.4;null;null;null;7.139785;19;551.6;null;25.019355;22.647742;19.451613;86.653226;10;4.516129;20.322581;null;
+1970-08-31;18;73.2;null;null;null;6.483871;10;308.1;null;25.309677;22.780645;19.393548;84.967742;10;4.688172;30.16129;null;
+1970-09-30;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1970-10-31;14;100.2;null;null;null;4.532609;3;55.2;null;29.122581;25.51871;22.622581;79.387097;10;4.456522;40.806452;null;
+1970-11-30;14;97.9;null;null;null;5.722222;8;315.1;null;29.34;25.776667;22.53;80.333333;10;4.533333;28.833333;null;
+1970-12-31;14;105.7;null;null;null;4.44086;0;0;null;30.177419;26.397419;23.174194;77.951613;10;3.44086;36.451613;null;
+1971-01-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1971-02-28;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1971-03-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1971-04-30;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1971-05-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1971-06-30;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1971-07-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1971-08-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1971-09-30;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1971-10-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1971-11-30;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1971-12-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+

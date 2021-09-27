@@ -1,0 +1,41 @@
+Nome: MONTALVANIA
+Codigo Estacao: 83340
+Latitude: -14.37
+Longitude: -44.45
+Altitude: 560
+Situacao: Desativada
+Data Inicial: 1975-03-26
+Data Final: 1977-07-31
+Periodicidade da Medicao: Mensal
+
+Data Medicao;DIRECAO PREDOMINANTE DO VENTO, MENSAL(° (gr));EVAPORACAO DO PICHE, MENSAL(mm);EVAPOTRANSPIRACAO POTENCIAL, BH MENSAL(mm);EVAPOTRANSPIRACAO REAL, BH MENSAL(mm);INSOLACAO TOTAL, MENSAL(h);NEBULOSIDADE, MEDIA MENSAL(décimos);NUMERO DE DIAS COM PRECIP. PLUV, MENSAL(número);PRECIPITACAO TOTAL, MENSAL(mm);PRESSAO ATMOSFERICA, MEDIA MENSAL(mB);TEMPERATURA MAXIMA MEDIA, MENSAL(°C);TEMPERATURA MEDIA COMPENSADA, MENSAL(°C);TEMPERATURA MINIMA MEDIA, MENSAL(°C);UMIDADE RELATIVA DO AR, MEDIA MENSAL(%);VENTO, VELOCIDADE MAXIMA MENSAL(m/s);VENTO, VELOCIDADE MEDIA MENSAL(m/s);VISIBILIDADE, MEDIA MENSAL(codigo);
+1975-03-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1975-04-30;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1975-05-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1975-06-30;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1975-07-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1975-08-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1975-09-30;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1975-10-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1975-11-30;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1975-12-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1976-01-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1976-02-29;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1976-03-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1976-04-30;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1976-05-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1976-06-30;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1976-07-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1976-08-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1976-09-30;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1976-10-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1976-11-30;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1976-12-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1977-01-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1977-02-28;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1977-03-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1977-04-30;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1977-05-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1977-06-30;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1977-07-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+

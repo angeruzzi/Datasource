@@ -1,0 +1,62 @@
+Nome: SAO DOMINGOS
+Codigo Estacao: 83071
+Latitude: -26.55
+Longitude: -52.57
+Altitude: 600
+Situacao: Desativada
+Data Inicial: 1978-12-31
+Data Final: 1983-01-31
+Periodicidade da Medicao: Mensal
+
+Data Medicao;DIRECAO PREDOMINANTE DO VENTO, MENSAL(° (gr));EVAPORACAO DO PICHE, MENSAL(mm);EVAPOTRANSPIRACAO POTENCIAL, BH MENSAL(mm);EVAPOTRANSPIRACAO REAL, BH MENSAL(mm);INSOLACAO TOTAL, MENSAL(h);NEBULOSIDADE, MEDIA MENSAL(décimos);NUMERO DE DIAS COM PRECIP. PLUV, MENSAL(número);PRECIPITACAO TOTAL, MENSAL(mm);PRESSAO ATMOSFERICA, MEDIA MENSAL(mB);TEMPERATURA MAXIMA MEDIA, MENSAL(°C);TEMPERATURA MEDIA COMPENSADA, MENSAL(°C);TEMPERATURA MINIMA MEDIA, MENSAL(°C);UMIDADE RELATIVA DO AR, MEDIA MENSAL(%);VENTO, VELOCIDADE MAXIMA MENSAL(m/s);VENTO, VELOCIDADE MEDIA MENSAL(m/s);VISIBILIDADE, MEDIA MENSAL(codigo);
+1978-12-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1979-01-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1979-02-28;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1979-03-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1979-04-30;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1979-05-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1979-06-30;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1979-07-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1979-08-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1979-09-30;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1979-10-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1979-11-30;36;null;null;null;null;5.292135;4;17.4;null;29.218182;21.521333;13.09375;65.391667;9;3.555556;44.85;null;
+1979-12-31;36;null;null;null;null;5.877778;9;125;null;29.19375;24.122581;16.942857;69.354839;9;3.857143;39.258065;null;
+1980-01-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1980-02-29;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1980-03-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1980-04-30;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1980-05-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1980-06-30;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1980-07-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1980-08-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1980-09-30;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1980-10-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1980-11-30;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1980-12-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1981-01-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1981-02-28;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1981-03-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1981-04-30;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1981-05-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1981-06-30;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1981-07-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1981-08-31;0;null;null;null;null;4.913043;5;193.9;null;23.416129;15.358065;8.896774;74.048387;.5;.111864;31.564516;null;
+1981-09-30;36;null;null;null;null;4.4;8;163.2;null;26.177778;18.014;12.136364;75.841667;.8;.257143;33.4;null;
+1981-10-31;36;null;null;null;null;5.493671;4;106.6;null;26.733333;18.654194;11.972222;79.153226;.5;.236207;37.274194;null;
+1981-11-30;36;null;null;null;null;6.388889;13;243.2;null;28.561111;21;15.005882;78.641667;3.3;.270423;36.458333;null;
+1981-12-31;36;null;null;null;null;6.406977;8;175.6;null;27.612903;21.234194;15.547059;80.290323;.5;.194872;48.887097;null;
+1982-01-31;36;151.2;null;null;null;4.967742;4;32.4;null;29.445161;22.036774;15.671429;77.370968;4;.465591;50.909091;null;
+1982-02-28;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1982-03-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1982-04-30;0;118.5;null;null;null;6.41573;4;35.8;null;27.006667;19.158667;11.31875;72.825;8;1.65;50.816667;null;
+1982-05-31;0;null;null;null;0;6.354839;3;118.2;null;24.58125;15.611613;9.147059;73.483333;6;2.34375;39.33871;null;
+1982-06-30;0;77;null;null;null;8;14;265.4;null;23.393103;15.197241;7.733333;81.87931;7;2.2625;50.465517;null;
+1982-07-31;0;95;null;null;null;7.086022;10;231.7;null;24.890323;16.357419;8.645161;78.217742;5;2.182927;46.983871;null;
+1982-08-31;0;null;null;null;0;7.473118;6;184;null;21.433333;16.525161;12.306061;75.862903;6;2.15;34.967742;null;
+1982-09-30;0;117;null;null;null;6.644444;3;87.6;null;25.76129;18.781333;11.98125;72.066667;5;1.9625;47.95082;null;
+1982-10-31;36;null;null;null;0;6.860215;8;225.7;null;23.664516;18.591613;13.425;78.685484;5;2.119403;40.52381;null;
+1982-11-30;36;null;null;null;null;7.822222;13;402.6;null;26.033333;19.965333;11.873333;77.416667;5;1.824675;39.95;null;
+1982-12-31;36;102.8;null;null;null;6.827957;7;164.8;null;28.212903;21.517419;12.259375;72.83871;5;2.149425;47.854839;null;
+1983-01-31;36;null;null;null;null;7.365591;null;151.3;null;28.125806;22.385806;14.067742;73.451613;null;null;6.25;null;
+

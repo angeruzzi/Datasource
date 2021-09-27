@@ -1,0 +1,47 @@
+Nome: FATIMA DO SUL
+Codigo Estacao: S708
+Latitude: -22.30861111
+Longitude: -54.32583332
+Altitude: 340
+Situacao: Pane
+Data Inicial: 2018-02-27
+Data Final: 2020-12-31
+Periodicidade da Medicao: Mensal
+
+Data Medicao;NUMERO DE DIAS COM PRECIP. PLUV, MENSAL (AUT)(número);PRECIPITACAO TOTAL, MENSAL (AUT)(mm);PRESSAO ATMOSFERICA, MEDIA MENSAL (AUT)(mB);TEMPERATURA MEDIA, MENSAL (AUT)(°C);VENTO, VELOCIDADE MAXIMA MENSAL (AUT)(m/s);VENTO, VELOCIDADE MEDIA MENSAL (AUT)(m/s);
+2018-02-28;null;null;null;null;null;null;
+2018-03-31;18;139.8;972.333333;26.444971;10.3;2.2;
+2018-04-30;2;26.8;976.199028;24.845278;8;2.380556;
+2018-05-31;6;57.6;977.553226;21.425;6.8;2.497043;
+2018-06-30;9;29.6;978.959728;18.622754;8.1;2.124831;
+2018-07-31;0;0;978.267204;20.068414;7.7;2.458468;
+2018-08-31;12;114.2;978.936021;18.898925;9;2.831183;
+2018-09-30;14;169.6;974.405139;21.90875;9.8;2.933611;
+2018-10-31;18;333;972.657796;24.538306;11.3;3.012097;
+2018-11-30;10;166.2;972.084167;25.335833;10.4;3.312778;
+2018-12-31;11;47.4;972.928495;26.524194;10.7;2.377127;
+2019-01-31;19;229.2;974.053226;26.773118;8.3;2.379254;
+2019-02-28;11;null;null;26.036111;7.7;null;
+2019-03-31;null;null;null;null;null;null;
+2019-04-30;null;null;null;null;null;null;
+2019-05-31;null;null;null;null;null;null;
+2019-06-30;null;null;null;null;null;null;
+2019-07-31;null;null;null;null;null;null;
+2019-08-31;null;null;null;null;null;null;
+2019-09-30;null;null;null;null;null;null;
+2019-10-31;null;null;null;null;null;null;
+2019-11-30;null;null;null;null;null;null;
+2019-12-31;null;null;null;null;null;null;
+2020-01-31;null;null;null;null;null;null;
+2020-02-29;null;null;null;null;null;null;
+2020-03-31;null;null;null;null;null;null;
+2020-04-30;null;null;null;null;null;null;
+2020-05-31;null;null;null;null;null;null;
+2020-06-30;null;null;null;null;null;null;
+2020-07-31;null;null;null;null;null;null;
+2020-08-31;null;null;null;null;null;null;
+2020-09-30;null;null;null;null;null;null;
+2020-10-31;null;null;null;null;null;null;
+2020-11-30;null;null;null;null;null;null;
+2020-12-31;null;null;null;null;null;null;
+

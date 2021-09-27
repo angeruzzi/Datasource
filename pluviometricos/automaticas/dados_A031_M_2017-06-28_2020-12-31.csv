@@ -1,0 +1,55 @@
+Nome: SAO MIGUEL DO ARAGUAIA
+Codigo Estacao: A031
+Latitude: -12.82055554
+Longitude: -50.33583333
+Altitude: 210
+Situacao: Operante
+Data Inicial: 2017-06-28
+Data Final: 2020-12-31
+Periodicidade da Medicao: Mensal
+
+Data Medicao;NUMERO DE DIAS COM PRECIP. PLUV, MENSAL (AUT)(número);PRECIPITACAO TOTAL, MENSAL (AUT)(mm);PRESSAO ATMOSFERICA, MEDIA MENSAL (AUT)(mB);TEMPERATURA MEDIA, MENSAL (AUT)(°C);VENTO, VELOCIDADE MAXIMA MENSAL (AUT)(m/s);VENTO, VELOCIDADE MEDIA MENSAL (AUT)(m/s);
+2017-06-30;null;null;null;null;null;null;
+2017-07-31;0;991.651613;24.3375;8.3;null;null;
+2017-08-31;0;987.432086;27.753656;8.3;null;null;
+2017-09-30;0;987.126493;28.87537;9.5;null;null;
+2017-10-31;79;984.636835;29.755429;10.3;null;null;
+2017-11-30;null;984.841191;26.720095;9.4;null;null;
+2017-12-31;383.4;985.591681;26.114769;9.8;null;null;
+2018-01-31;156;986.071936;26.563169;7.9;null;null;
+2018-02-28;261;985.917734;25.860113;7.9;null;null;
+2018-03-31;214.8;986.298364;26.224615;8.5;null;null;
+2018-04-30;52.2;987.566449;26.544771;6;null;null;
+2018-05-31;38;988.44668;26.586436;9.5;null;null;
+2018-06-30;0;989.615706;25.806062;6.2;null;null;
+2018-07-31;0;989.461068;25.63923;6.1;null;null;
+2018-08-31;72.2;988.407258;27.76828;9.6;null;null;
+2018-09-30;19.6;985.452929;29.090871;8.5;null;null;
+2018-10-31;84.4;985.468467;28.042403;11.3;null;null;
+2018-11-30;250.8;985.499904;26.292327;8.2;null;null;
+2018-12-31;177.2;986.909444;26.462295;12.2;null;null;
+2019-01-31;88;987.563172;27.07659;10.4;null;null;
+2019-02-28;234;986.681655;26.897076;8.4;null;null;
+2019-03-31;238.8;987.226847;26.634964;8.6;null;null;
+2019-04-30;63.2;986.967528;27.289224;8.5;null;null;
+2019-05-31;77.2;987.038979;27.664785;6.7;null;null;
+2019-06-30;.2;989.778889;26.135972;8;null;null;
+2019-07-31;0;989.531452;25.879301;8.3;null;null;
+2019-08-31;null;null;26.937998;10.2;null;null;
+2019-09-30;null;null;null;8.9;null;null;
+2019-10-31;null;null;null;4.9;null;null;
+2019-11-30;null;null;null;5.2;null;null;
+2019-12-31;null;null;null;7;null;null;
+2020-01-31;null;null;null;4.8;null;null;
+2020-02-29;null;null;null;6.6;null;null;
+2020-03-31;null;null;null;4.7;null;null;
+2020-04-30;null;null;null;5.4;null;null;
+2020-05-31;null;null;null;6.1;null;null;
+2020-06-30;null;null;null;7.5;null;null;
+2020-07-31;null;null;null;8.4;null;null;
+2020-08-31;null;null;null;8;null;null;
+2020-09-30;null;null;null;9.5;null;null;
+2020-10-31;null;null;null;5.5;null;null;
+2020-11-30;null;null;null;7.2;null;null;
+2020-12-31;null;null;null;6.4;null;null;
+

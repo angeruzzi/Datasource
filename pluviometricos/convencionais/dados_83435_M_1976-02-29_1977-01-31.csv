@@ -1,0 +1,24 @@
+Nome: SAO ROMAO
+Codigo Estacao: 83435
+Latitude: -16.37
+Longitude: -45.07
+Altitude: 460
+Situacao: Desativada
+Data Inicial: 1976-02-29
+Data Final: 1977-01-31
+Periodicidade da Medicao: Mensal
+
+Data Medicao;DIRECAO PREDOMINANTE DO VENTO, MENSAL(° (gr));EVAPORACAO DO PICHE, MENSAL(mm);EVAPOTRANSPIRACAO POTENCIAL, BH MENSAL(mm);EVAPOTRANSPIRACAO REAL, BH MENSAL(mm);INSOLACAO TOTAL, MENSAL(h);NEBULOSIDADE, MEDIA MENSAL(décimos);NUMERO DE DIAS COM PRECIP. PLUV, MENSAL(número);PRECIPITACAO TOTAL, MENSAL(mm);PRESSAO ATMOSFERICA, MEDIA MENSAL(mB);TEMPERATURA MAXIMA MEDIA, MENSAL(°C);TEMPERATURA MEDIA COMPENSADA, MENSAL(°C);TEMPERATURA MINIMA MEDIA, MENSAL(°C);UMIDADE RELATIVA DO AR, MEDIA MENSAL(%);VENTO, VELOCIDADE MAXIMA MENSAL(m/s);VENTO, VELOCIDADE MEDIA MENSAL(m/s);VISIBILIDADE, MEDIA MENSAL(codigo);
+1976-02-29;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1976-03-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1976-04-30;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1976-05-31;14;119.7;null;null;225.5;5.043478;5;84.8;null;null;null;null;69.419355;3;1.054348;7.52459;null;
+1976-06-30;18;139.4;null;null;270.9;2.466667;0;0;null;null;null;null;58.616667;5;1.233333;6.233333;null;
+1976-07-31;5;163.5;null;null;282.1;2.72043;1;1.5;null;null;null;null;57.475806;4;1.548387;15.483871;null;
+1976-08-31;0;199.8;null;null;293;2.11828;1;.7;null;null;null;null;52.927419;6;1.623656;19.016129;null;
+1976-09-30;0;153.1;null;null;159.7;4.766667;10;102.4;null;null;null;null;60.366667;4;1.505618;45.466667;null;
+1976-10-31;5;122.4;null;null;205.9;5.892473;11;242.6;null;null;null;null;null;7;1.554348;8.83871;null;
+1976-11-30;9;68.7;null;null;116.2;8.37931;20;460.2;null;null;null;null;null;3;1.433333;14.982759;null;
+1976-12-31;36;72.3;null;null;151.7;8.408602;16;510;null;null;null;null;null;3;.978495;18.306452;null;
+1977-01-31;14;86.9;null;null;187;7.129032;12;427.5;null;null;null;null;null;4;1.591398;8.258065;null;
+

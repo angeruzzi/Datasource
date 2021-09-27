@@ -1,0 +1,36 @@
+Nome: S.GONCAL.DOS CAMPOS
+Codigo Estacao: 83247
+Latitude: -12.43
+Longitude: -38.97
+Altitude: 235
+Situacao: Desativada
+Data Inicial: 1970-01-01
+Data Final: 1971-12-30
+Periodicidade da Medicao: Mensal
+
+Data Medicao;DIRECAO PREDOMINANTE DO VENTO, MENSAL(° (gr));EVAPORACAO DO PICHE, MENSAL(mm);EVAPOTRANSPIRACAO POTENCIAL, BH MENSAL(mm);EVAPOTRANSPIRACAO REAL, BH MENSAL(mm);INSOLACAO TOTAL, MENSAL(h);NEBULOSIDADE, MEDIA MENSAL(décimos);NUMERO DE DIAS COM PRECIP. PLUV, MENSAL(número);PRECIPITACAO TOTAL, MENSAL(mm);PRESSAO ATMOSFERICA, MEDIA MENSAL(mB);TEMPERATURA MAXIMA MEDIA, MENSAL(°C);TEMPERATURA MEDIA COMPENSADA, MENSAL(°C);TEMPERATURA MINIMA MEDIA, MENSAL(°C);UMIDADE RELATIVA DO AR, MEDIA MENSAL(%);VENTO, VELOCIDADE MAXIMA MENSAL(m/s);VENTO, VELOCIDADE MEDIA MENSAL(m/s);VISIBILIDADE, MEDIA MENSAL(codigo);
+1970-01-31;14;60.5;null;null;226.4;4.978495;6;56.5;null;29.922581;24.478065;21.448387;79.75;12;4.376344;49.516129;null;
+1970-02-28;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1970-03-31;14;62.5;null;null;227.1;4.151163;null;0;null;29.968966;24.448966;21.196552;78.913793;10;4.406977;49.224138;null;
+1970-04-30;14;58.7;null;null;191.6;4.688889;3;26;null;29.35;24.001333;20.906667;79.883333;10;3.977778;50;null;
+1970-05-31;14;61.8;null;null;215.9;4.666667;4;42.5;null;28.358065;23.052903;19.716129;81.629032;10;4.311828;45.806452;null;
+1970-06-30;14;44.1;null;null;180.1;5.411111;7;53.8;null;26.5;21.847333;18.816667;87.241667;10;3.766667;47;null;
+1970-07-31;14;41.9;null;null;183.7;6.655914;21;160.3;null;24.851613;20.840645;18.329032;88.096774;10;4.27957;46.370968;null;
+1970-08-31;14;50.1;null;null;160.5;5.817204;8;59.5;null;25.070968;20.825806;18.151613;87.927419;12;4.215054;50;null;
+1970-09-30;14;70.3;null;null;248.7;4.622222;1;5.5;null;28.196667;22.564;19.376667;81.341667;12;3.566667;49.25;null;
+1970-10-31;14;69;null;null;227;4.752688;2;41;null;30.4;24.336774;20.987097;79.677419;9;3.688172;48.306452;null;
+1970-11-30;14;63.2;null;null;205;5.211111;5;150;null;29.873333;24.303333;20.973333;82.433333;12;4.766667;48.25;null;
+1970-12-31;14;null;null;null;258.5;4.655914;0;0;null;31.083871;24.82;21.145161;78.467742;10;4.16129;49.193548;null;
+1971-01-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1971-02-28;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1971-03-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1971-04-30;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1971-05-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1971-06-30;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1971-07-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1971-08-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1971-09-30;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1971-10-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1971-11-30;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1971-12-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+

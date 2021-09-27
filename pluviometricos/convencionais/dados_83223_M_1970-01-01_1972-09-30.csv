@@ -1,0 +1,45 @@
+Nome: S.FRANCISCO DO CONDE
+Codigo Estacao: 83223
+Latitude: -12.62
+Longitude: -38.67
+Altitude: 80
+Situacao: Desativada
+Data Inicial: 1970-01-01
+Data Final: 1972-09-30
+Periodicidade da Medicao: Mensal
+
+Data Medicao;DIRECAO PREDOMINANTE DO VENTO, MENSAL(° (gr));EVAPORACAO DO PICHE, MENSAL(mm);EVAPOTRANSPIRACAO POTENCIAL, BH MENSAL(mm);EVAPOTRANSPIRACAO REAL, BH MENSAL(mm);INSOLACAO TOTAL, MENSAL(h);NEBULOSIDADE, MEDIA MENSAL(décimos);NUMERO DE DIAS COM PRECIP. PLUV, MENSAL(número);PRECIPITACAO TOTAL, MENSAL(mm);PRESSAO ATMOSFERICA, MEDIA MENSAL(mB);TEMPERATURA MAXIMA MEDIA, MENSAL(°C);TEMPERATURA MEDIA COMPENSADA, MENSAL(°C);TEMPERATURA MINIMA MEDIA, MENSAL(°C);UMIDADE RELATIVA DO AR, MEDIA MENSAL(%);VENTO, VELOCIDADE MAXIMA MENSAL(m/s);VENTO, VELOCIDADE MEDIA MENSAL(m/s);VISIBILIDADE, MEDIA MENSAL(codigo);
+1970-01-31;0;63.2;null;null;null;5.634409;16;267.2;1010.395699;31.006452;25.980645;22.516129;81.5;8;2.075269;40;null;
+1970-02-28;0;57.3;null;null;null;4.988095;18;221.2;1010.786905;30.775;26.105714;22.65;80.982143;8;2.321429;46.964286;null;
+1970-03-31;14;59;null;null;null;5;19;180.1;1011.077419;30.345161;25.857419;22.490323;81.741935;8;1.806452;47.419355;null;
+1970-04-30;0;56.5;null;null;null;5.333333;14;112.3;1011.188889;29.903333;25.301333;22.146667;83.316667;8;2.088889;40.833333;null;
+1970-05-31;0;49.9;null;null;null;4.709677;13;186.8;1012.554839;28.935484;24.470968;21.045161;83.709677;6;1.967742;42.33871;null;
+1970-06-30;0;42.4;null;null;null;5.9;20;232.8;1014.431111;27.83;23.544667;20.166667;85.45;8;1.588889;35.416667;null;
+1970-07-31;18;39.6;null;null;null;6.892473;25;276.9;1016.226882;26.26129;22.692258;19.912903;86.387097;8;3.064516;34.032258;null;
+1970-08-31;18;39.4;null;null;null;6.139785;22;110.5;1015.268817;26.380645;22.672903;19.551613;85.354839;10;3.344086;36.451613;null;
+1970-09-30;14;50.8;null;null;null;4.611111;6;50.2;1013.308889;29.153333;23.996667;20.033333;81.575;8;2.733333;51.833333;null;
+1970-10-31;18;61;null;null;null;5.064516;6;48.9;1010.109677;30.958065;25.489677;21.56129;80.491935;8;2.967742;49.677419;null;
+1970-11-30;0;60.6;null;null;null;6.222222;16;322.4;1008.725556;31.006667;25.856;22.263333;80.883333;8;2.8;40.5;null;
+1970-12-31;0;63.8;null;null;null;4.72043;2;2.8;1009.392473;31.841935;26.213548;22.229032;77.83871;8;2.494624;51.774194;null;
+1971-01-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1971-02-28;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1971-03-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1971-04-30;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1971-05-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1971-06-30;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1971-07-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1971-08-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1971-09-30;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1971-10-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1971-11-30;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1971-12-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1972-01-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1972-02-29;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1972-03-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1972-04-30;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1972-05-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1972-06-30;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1972-07-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1972-08-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1972-09-30;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+

@@ -1,0 +1,55 @@
+Nome: SAO GABRIEL DO OESTE
+Codigo Estacao: 83559
+Latitude: -19.42
+Longitude: -54.58
+Altitude: 614
+Situacao: Desativada
+Data Inicial: 1989-07-26
+Data Final: 1993-01-31
+Periodicidade da Medicao: Mensal
+
+Data Medicao;DIRECAO PREDOMINANTE DO VENTO, MENSAL(° (gr));EVAPORACAO DO PICHE, MENSAL(mm);EVAPOTRANSPIRACAO POTENCIAL, BH MENSAL(mm);EVAPOTRANSPIRACAO REAL, BH MENSAL(mm);INSOLACAO TOTAL, MENSAL(h);NEBULOSIDADE, MEDIA MENSAL(décimos);NUMERO DE DIAS COM PRECIP. PLUV, MENSAL(número);PRECIPITACAO TOTAL, MENSAL(mm);PRESSAO ATMOSFERICA, MEDIA MENSAL(mB);TEMPERATURA MAXIMA MEDIA, MENSAL(°C);TEMPERATURA MEDIA COMPENSADA, MENSAL(°C);TEMPERATURA MINIMA MEDIA, MENSAL(°C);UMIDADE RELATIVA DO AR, MEDIA MENSAL(%);VENTO, VELOCIDADE MAXIMA MENSAL(m/s);VENTO, VELOCIDADE MEDIA MENSAL(m/s);VISIBILIDADE, MEDIA MENSAL(codigo);
+1989-07-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1989-08-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1989-09-30;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1989-10-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1989-11-30;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1989-12-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1990-01-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1990-02-28;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1990-03-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1990-04-30;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1990-05-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1990-06-30;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1990-07-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1990-08-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1990-09-30;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1990-10-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1990-11-30;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1990-12-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1991-01-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1991-02-28;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1991-03-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1991-04-30;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1991-05-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1991-06-30;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1991-07-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1991-08-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1991-09-30;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1991-10-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1991-11-30;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1991-12-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1992-01-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1992-02-29;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1992-03-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1992-04-30;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1992-05-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1992-06-30;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1992-07-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1992-08-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1992-09-30;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1992-10-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1992-11-30;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1992-12-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1993-01-31;9;30.4;null;null;null;null;16;296.6;944.9;29.603226;24.682581;18.267742;93.032258;3;1.565217;null;null;
+

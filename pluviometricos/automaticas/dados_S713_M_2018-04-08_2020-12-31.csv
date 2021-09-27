@@ -1,0 +1,45 @@
+Nome: NOVA ANDRADINA
+Codigo Estacao: S713
+Latitude: -22.0786111
+Longitude: -53.46583333
+Altitude: 372
+Situacao: Operante
+Data Inicial: 2018-04-08
+Data Final: 2020-12-31
+Periodicidade da Medicao: Mensal
+
+Data Medicao;NUMERO DE DIAS COM PRECIP. PLUV, MENSAL (AUT)(número);PRECIPITACAO TOTAL, MENSAL (AUT)(mm);PRESSAO ATMOSFERICA, MEDIA MENSAL (AUT)(mB);TEMPERATURA MEDIA, MENSAL (AUT)(°C);VENTO, VELOCIDADE MAXIMA MENSAL (AUT)(m/s);VENTO, VELOCIDADE MEDIA MENSAL (AUT)(m/s);
+2018-04-30;1;null;null;25.148958;5.9;null;
+2018-05-31;5;40;973.770968;21.954973;7.6;2.556452;
+2018-06-30;7;31.4;974.999167;19.825417;10.5;2.489722;
+2018-07-31;0;0;974.384409;21.606855;7.8;2.815054;
+2018-08-31;10;118.8;974.988844;19.120564;9.4;null;
+2018-09-30;13;170.4;970.606806;22.383333;8.2;2.602083;
+2018-10-31;16;335;968.981855;24.40121;10.1;2.572177;
+2018-11-30;11;129;968.404028;24.881111;null;null;
+2018-12-31;15;198.2;969.179973;26.276344;7.5;2.186559;
+2019-01-31;18;255.4;970.430914;26.816263;8.6;2.241398;
+2019-02-28;12;null;null;25.814474;6;null;
+2019-03-31;null;null;null;null;null;null;
+2019-04-30;null;null;null;null;null;null;
+2019-05-31;null;null;null;null;null;null;
+2019-06-30;null;null;null;null;null;null;
+2019-07-31;null;null;null;null;null;null;
+2019-08-31;null;null;null;null;null;null;
+2019-09-30;null;null;null;null;null;null;
+2019-10-31;null;null;null;null;null;null;
+2019-11-30;null;null;null;null;null;null;
+2019-12-31;null;null;null;null;null;null;
+2020-01-31;null;null;null;null;null;null;
+2020-02-29;null;null;null;null;null;null;
+2020-03-31;null;null;null;null;null;null;
+2020-04-30;null;null;null;null;null;null;
+2020-05-31;null;null;null;null;null;null;
+2020-06-30;null;null;null;null;null;null;
+2020-07-31;null;null;null;null;null;null;
+2020-08-31;null;null;null;null;null;null;
+2020-09-30;null;null;null;null;null;null;
+2020-10-31;null;null;null;null;null;null;
+2020-11-30;null;null;null;null;null;null;
+2020-12-31;null;null;null;null;null;null;
+

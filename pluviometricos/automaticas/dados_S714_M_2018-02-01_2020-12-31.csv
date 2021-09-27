@@ -1,0 +1,47 @@
+Nome: PEDRO GOMES
+Codigo Estacao: S714
+Latitude: -18.07277777
+Longitude: -54.54888888
+Altitude: 251
+Situacao: Operante
+Data Inicial: 2018-02-01
+Data Final: 2020-12-31
+Periodicidade da Medicao: Mensal
+
+Data Medicao;NUMERO DE DIAS COM PRECIP. PLUV, MENSAL (AUT)(número);PRECIPITACAO TOTAL, MENSAL (AUT)(mm);PRESSAO ATMOSFERICA, MEDIA MENSAL (AUT)(mB);TEMPERATURA MEDIA, MENSAL (AUT)(°C);VENTO, VELOCIDADE MAXIMA MENSAL (AUT)(m/s);VENTO, VELOCIDADE MEDIA MENSAL (AUT)(m/s);
+2018-02-28;null;null;null;null;null;null;
+2018-03-31;20;142.2;982.318683;26.280376;8.4;1.261962;
+2018-04-30;8;153.6;984.847778;24.958889;4;1.118194;
+2018-05-31;7;60.6;986.411021;22.183333;5.8;1.131317;
+2018-06-30;1;.2;988.073611;20.900972;6.3;1.305972;
+2018-07-31;0;0;987.403898;20.916532;5.5;1.244086;
+2018-08-31;2;1.6;987.101617;22.032019;6.7;1.681995;
+2018-09-30;5;null;983.667751;null;10.3;1.527661;
+2018-10-31;5;null;982.256323;null;7.4;1.445922;
+2018-11-30;15;null;981.230403;26.447685;6;1.403138;
+2018-12-31;7;null;null;null;6.5;null;
+2019-01-31;5;null;null;null;7.4;null;
+2019-02-28;4;null;null;null;5.9;null;
+2019-03-31;2;null;null;null;4.9;null;
+2019-04-30;null;null;null;null;3.9;null;
+2019-05-31;null;null;null;null;7.9;null;
+2019-06-30;null;null;null;null;6.7;null;
+2019-07-31;null;null;null;null;6.1;null;
+2019-08-31;null;null;null;null;6.1;null;
+2019-09-30;null;null;null;null;6.3;null;
+2019-10-31;null;null;null;null;7;null;
+2019-11-30;4;null;null;null;6.9;null;
+2019-12-31;3;null;null;null;7.3;null;
+2020-01-31;1;null;null;null;6.8;null;
+2020-02-29;2;null;null;null;5.1;null;
+2020-03-31;null;null;null;null;4.8;null;
+2020-04-30;1;null;null;null;5.8;null;
+2020-05-31;7;null;null;null;6.4;null;
+2020-06-30;null;null;null;null;5.7;null;
+2020-07-31;null;null;null;null;5.7;null;
+2020-08-31;1;null;null;null;6.9;null;
+2020-09-30;null;null;null;null;5.3;null;
+2020-10-31;1;null;null;null;5.9;null;
+2020-11-30;null;null;null;null;5;null;
+2020-12-31;null;null;null;null;4.5;null;
+

@@ -1,0 +1,72 @@
+Nome: VOLTA REDONDA
+Codigo Estacao: 83111
+Latitude: -22.52
+Longitude: -44.1
+Altitude: 375
+Situacao: Desativada
+Data Inicial: 1986-06-02
+Data Final: 1991-05-31
+Periodicidade da Medicao: Mensal
+
+Data Medicao;DIRECAO PREDOMINANTE DO VENTO, MENSAL(° (gr));EVAPORACAO DO PICHE, MENSAL(mm);EVAPOTRANSPIRACAO POTENCIAL, BH MENSAL(mm);EVAPOTRANSPIRACAO REAL, BH MENSAL(mm);INSOLACAO TOTAL, MENSAL(h);NEBULOSIDADE, MEDIA MENSAL(décimos);NUMERO DE DIAS COM PRECIP. PLUV, MENSAL(número);PRECIPITACAO TOTAL, MENSAL(mm);PRESSAO ATMOSFERICA, MEDIA MENSAL(mB);TEMPERATURA MAXIMA MEDIA, MENSAL(°C);TEMPERATURA MEDIA COMPENSADA, MENSAL(°C);TEMPERATURA MINIMA MEDIA, MENSAL(°C);UMIDADE RELATIVA DO AR, MEDIA MENSAL(%);VENTO, VELOCIDADE MAXIMA MENSAL(m/s);VENTO, VELOCIDADE MEDIA MENSAL(m/s);VISIBILIDADE, MEDIA MENSAL(codigo);
+1986-06-30;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1986-07-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1986-08-31;null;18.5;null;null;166.5;null;null;null;null;25.754839;null;15.558065;null;null;null;null;null;
+1986-09-30;null;49;null;null;148.8;null;null;null;null;25.816667;null;15.33;null;null;null;null;null;
+1986-10-31;null;145.4;null;null;184.1;null;null;null;null;27.919355;null;16.519355;null;null;null;null;null;
+1986-11-30;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1986-12-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1987-01-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1987-02-28;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1987-03-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1987-04-30;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1987-05-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1987-06-30;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1987-07-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1987-08-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1987-09-30;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1987-10-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1987-11-30;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1987-12-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1988-01-31;null;122.5;null;null;214;null;null;null;null;32.548387;null;21.496774;null;null;null;null;null;
+1988-02-29;null;81.7;null;null;101;null;null;null;null;29.551724;null;21.310345;null;null;null;null;null;
+1988-03-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1988-04-30;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1988-05-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1988-06-30;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1988-07-31;null;99;null;null;203.6;null;null;null;null;23.332;null;11.358065;null;null;null;null;null;
+1988-08-31;null;154;null;null;null;null;null;null;null;null;null;12.754839;null;null;null;null;null;
+1988-09-30;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1988-10-31;null;117.5;null;null;130.3;null;null;null;null;null;null;17.216667;null;null;null;null;null;
+1988-11-30;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1988-12-31;null;130.1;null;null;186.8;null;null;null;null;null;null;20.168966;null;null;null;null;null;
+1989-01-31;null;113.5;null;null;137.3;null;null;null;null;null;null;20.626667;null;null;null;null;null;
+1989-02-28;null;null;null;null;null;null;null;null;null;null;null;20.504545;null;null;null;null;null;
+1989-03-31;null;107.5;null;null;null;null;null;null;null;null;null;20.358065;null;null;null;null;null;
+1989-04-30;null;98.4;null;null;191.5;null;null;null;null;null;null;19.07;null;null;null;null;null;
+1989-05-31;null;91;null;null;175.2;null;null;null;null;null;null;15.7;null;null;null;null;null;
+1989-06-30;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1989-07-31;null;86.5;null;null;170.1;null;null;null;null;23.796774;null;11.774194;null;null;null;null;null;
+1989-08-31;null;132.7;null;null;null;null;null;null;null;25.777419;null;14.458065;null;null;null;null;null;
+1989-09-30;null;112.3;null;null;138.4;null;null;null;null;25.753333;null;16.383333;null;null;null;null;null;
+1989-10-31;null;120.6;null;null;144.6;null;null;null;null;26.751613;null;16.967742;null;null;null;null;null;
+1989-11-30;null;143;null;null;162.3;null;null;null;null;28.76;null;18.883333;null;null;null;null;null;
+1989-12-31;null;150.5;null;null;161.5;null;null;null;null;29.616129;null;19.641935;null;null;null;null;null;
+1990-01-31;null;157.3;null;null;238.9;null;null;null;null;32.880645;26.558065;21.219355;69.706452;null;null;null;null;
+1990-02-28;null;137.7;null;null;181.4;null;null;null;null;32.132143;25.578571;20.978571;71.364286;null;null;null;null;
+1990-03-31;null;114.5;null;null;196.8;null;null;null;null;31.664516;25.454839;21.23871;75.145161;null;null;null;null;
+1990-04-30;null;106.1;null;null;null;null;null;null;null;30.523333;24.563333;19.976667;75.58;null;null;null;null;
+1990-05-31;null;89.3;null;null;189.3;null;null;null;null;25.941935;19.893548;15.622581;76.893548;null;null;null;null;
+1990-06-30;null;97.5;null;null;179.9;null;null;null;null;25.923333;18.766667;13.586667;71.196667;null;null;null;null;
+1990-07-31;null;83.1;null;null;133.4;null;null;null;null;23.741935;18.064516;14.529032;76.13871;null;null;null;null;
+1990-08-31;null;101.5;null;null;134.9;null;null;null;null;25.122581;18.445161;14.048387;74.693548;null;null;null;null;
+1990-09-30;null;127.3;null;null;null;null;null;null;null;25.946667;19.713333;15.126667;73.426667;null;null;null;null;
+1990-10-31;null;144.4;null;null;178.6;null;null;null;null;29.274194;23.174194;18.390323;72.487097;null;null;null;null;
+1990-11-30;null;124.3;null;null;208.5;null;null;null;null;32.503333;25.486667;20.363333;70.85;null;null;null;null;
+1990-12-31;null;158.3;null;null;194.9;null;null;null;null;30.441935;24.367742;20;75.83871;null;null;null;null;
+1991-01-31;null;96.2;null;null;108.4;null;null;null;null;29.174194;23.867742;20.170968;80.451613;null;null;null;null;
+1991-02-28;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1991-03-31;null;81.1;null;null;null;null;null;null;null;28.506452;23.351613;19.709677;83.406452;null;null;null;null;
+1991-04-30;null;83.8;null;null;183.6;null;null;null;null;28.166667;22.756667;18.14;80.473333;null;null;null;null;
+1991-05-31;null;75.7;null;null;171.4;null;null;null;null;26.041935;20.309677;16.267742;80.516129;null;null;null;null;
+

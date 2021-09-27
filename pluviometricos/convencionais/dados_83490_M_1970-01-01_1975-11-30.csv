@@ -1,0 +1,83 @@
+Nome: ITAMBACURI
+Codigo Estacao: 83490
+Latitude: -18.02
+Longitude: -41.02
+Altitude: 285
+Situacao: Desativada
+Data Inicial: 1970-01-01
+Data Final: 1975-11-30
+Periodicidade da Medicao: Mensal
+
+Data Medicao;DIRECAO PREDOMINANTE DO VENTO, MENSAL(° (gr));EVAPORACAO DO PICHE, MENSAL(mm);EVAPOTRANSPIRACAO POTENCIAL, BH MENSAL(mm);EVAPOTRANSPIRACAO REAL, BH MENSAL(mm);INSOLACAO TOTAL, MENSAL(h);NEBULOSIDADE, MEDIA MENSAL(décimos);NUMERO DE DIAS COM PRECIP. PLUV, MENSAL(número);PRECIPITACAO TOTAL, MENSAL(mm);PRESSAO ATMOSFERICA, MEDIA MENSAL(mB);TEMPERATURA MAXIMA MEDIA, MENSAL(°C);TEMPERATURA MEDIA COMPENSADA, MENSAL(°C);TEMPERATURA MINIMA MEDIA, MENSAL(°C);UMIDADE RELATIVA DO AR, MEDIA MENSAL(%);VENTO, VELOCIDADE MAXIMA MENSAL(m/s);VENTO, VELOCIDADE MEDIA MENSAL(m/s);VISIBILIDADE, MEDIA MENSAL(codigo);
+1970-01-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1970-02-28;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1970-03-31;0;98;null;null;null;3.637363;3;11.5;null;31.948387;24.559355;19.196774;70.935484;2;.326087;20;null;
+1970-04-30;0;67.5;null;null;null;6.033333;8;63.8;null;29.523333;23.174;19.143333;78.666667;2;.111111;20;null;
+1970-05-31;0;89.8;null;null;null;3.548387;0;0;null;29.780645;22.371613;16.816129;72.951613;2;.258065;20;null;
+1970-06-30;0;94;null;null;null;3.988889;1;1.8;null;28.66;21.195333;15.3;69.841667;2;.177778;20;null;
+1970-07-31;0;66.5;null;null;null;5.397849;8;28.8;null;26.487097;18.769032;10.7;74.241935;2;.215054;20;null;
+1970-08-31;0;92.3;null;null;null;4.44086;6;21.7;null;27.035484;19.266452;10.709677;69.75;2;.344086;20;null;
+1970-09-30;0;102.1;null;null;null;5.333333;5;28;null;28.376667;21.620667;13.806667;68.4;4;.222222;20;null;
+1970-10-31;0;75.7;null;null;null;6.354839;13;230.3;null;28.6;22.549032;15.332258;75.5;2;.344086;19.677419;null;
+1970-11-30;0;73.5;null;null;null;5.533333;17;225.5;null;29.65;23.197333;15.133333;74.925;4;.266667;20;null;
+1970-12-31;0;80.5;null;null;null;3.774194;7;133.8;null;32.770968;24.765806;15.687097;70.572581;4;.387097;20;null;
+1971-01-31;0;117.6;null;null;null;3.892473;5;27.3;null;33.454839;25.266452;18.012903;67.846774;2;.516129;20;null;
+1971-02-28;0;126.5;null;null;null;2.654762;3;13.3;null;34.753571;25.601429;17.15;65.133929;2;.285714;20;null;
+1971-03-31;0;83;null;null;null;4.333333;10;123.8;null;32.612903;24.339355;16.164516;74.822581;2;.107527;20;null;
+1971-04-30;0;86.5;null;null;null;3.744444;6;64.8;null;31.323333;23.680667;15.766667;74.966667;2;.133333;20;null;
+1971-05-31;0;84.9;null;null;null;3.376344;3;12.2;null;29.445161;21.020645;12.035484;72.193548;2;.236559;20;null;
+1971-06-30;0;54.8;null;null;null;4.5;2;46.4;null;27.596667;20.051333;12.106667;76.041667;2;.2;20;null;
+1971-07-31;0;69.3;null;null;null;3.247312;8;28.2;null;27.329032;19.700645;13.941935;76.016129;2;.150538;20;null;
+1971-08-31;0;86.8;null;null;null;4.010753;3;26.2;null;27.3;20.134839;15.348387;72.16129;2;.301075;20;null;
+1971-09-30;0;81.7;null;null;null;4.422222;6;21.9;null;28.396667;21.901333;17.526667;70.258333;2;.288889;20;null;
+1971-10-31;0;77.3;null;null;null;7.139785;16;242.6;null;27.409677;22.536774;19.193548;76.225806;2;.258065;20;null;
+1971-11-30;0;45.2;null;null;null;8.266667;27;403.5;null;28.283333;23.379333;20.44;82.766667;2;.177778;20;null;
+1971-12-31;0;61.3;null;null;null;6.193548;15;272;null;30.909677;24.845806;20.787097;78.314516;2;.129032;20;null;
+1972-01-31;0;96;null;null;null;3.763441;11;58.4;null;32.454839;24.867097;20.425806;74.169355;2;.215054;20;null;
+1972-02-29;0;132;null;null;null;3.494253;2;44.5;null;33.372414;26.244828;21.024138;65.318966;2;.597701;20;null;
+1972-03-31;0;75;null;null;null;3.193548;8;156.3;null;32.303226;25.11871;20.835484;74.564516;2;.129032;20;null;
+1972-04-30;0;59.5;null;null;null;4.177778;2;60;null;29.513333;23.44;19.166667;77.5;2;.066667;20;null;
+1972-05-31;0;76;null;null;null;1.817204;2;15;null;28.658065;21.277419;16.903226;75.725806;2;.043011;19.83871;null;
+1972-06-30;0;78.5;null;null;null;2.644444;1;5.7;null;28.39;21.181333;16.803333;76.425;2;.088889;20;null;
+1972-07-31;0;71.9;null;null;null;4.086022;8;30.1;null;27.470968;20.587097;16.377419;76.637097;2;.150538;20;null;
+1972-08-31;0;103.8;null;null;null;2.408602;1;10.5;null;29.558065;22.314839;17.541935;67.435484;2;.516129;20;null;
+1972-09-30;0;110.5;null;null;null;4.577778;6;98.5;null;28.356667;22.028667;18.173333;71.933333;4;.333333;20;null;
+1972-10-31;0;95.5;null;null;null;5.139785;6;101;null;29.174194;23.970323;20.112903;73.806452;2;.172043;20;null;
+1972-11-30;0;70.5;null;null;null;7.6;14;284;null;31.213333;25.501333;21.973333;74.225;2;.088889;20;null;
+1972-12-31;0;86.4;null;null;null;6.774194;11;159.8;null;30.732258;24.903871;21.241935;77.870968;2;.107527;20;null;
+1973-01-31;0;142;null;null;null;3.064516;5;97.4;null;33.880645;26.609677;21.890323;71.693548;2;.029851;20;null;
+1973-02-28;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1973-03-31;null;null;null;null;null;null;10;143.4;null;31.4375;25.20625;21.411765;79.515625;0;null;null;null;
+1973-04-30;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1973-05-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1973-06-30;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1973-07-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1973-08-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1973-09-30;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1973-10-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1973-11-30;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1973-12-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1974-01-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1974-02-28;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1974-03-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1974-04-30;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1974-05-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1974-06-30;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1974-07-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1974-08-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1974-09-30;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1974-10-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1974-11-30;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1974-12-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1975-01-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1975-02-28;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1975-03-31;0;null;null;null;null;4.133333;5;36.5;null;33.830769;25.9976;20.476;70;0;0;20;null;
+1975-04-30;0;62.9;null;null;null;5.888889;7;127.4;null;29.236667;23.164667;19.093333;74.775;0;0;20;null;
+1975-05-31;0;71.9;null;null;null;3.763441;2;10.2;null;28.680645;21.96;17;70.508065;0;0;20;null;
+1975-06-30;0;61.6;null;null;null;3.488889;2;17;null;27.98;20.666667;15.186667;70.533333;0;0;19.677966;null;
+1975-07-31;0;55.6;null;null;null;3.410256;2;15.5;null;27.890323;20.085161;14.43871;69.129032;0;0;20;null;
+1975-08-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1975-09-30;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1975-10-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1975-11-30;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+

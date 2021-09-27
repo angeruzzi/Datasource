@@ -1,0 +1,47 @@
+Nome: CAMAPUA
+Codigo Estacao: S707
+Latitude: -19.58749999
+Longitude: -54.02999999
+Altitude: 540
+Situacao: Pane
+Data Inicial: 2018-02-18
+Data Final: 2020-12-31
+Periodicidade da Medicao: Mensal
+
+Data Medicao;NUMERO DE DIAS COM PRECIP. PLUV, MENSAL (AUT)(número);PRECIPITACAO TOTAL, MENSAL (AUT)(mm);PRESSAO ATMOSFERICA, MEDIA MENSAL (AUT)(mB);TEMPERATURA MEDIA, MENSAL (AUT)(°C);VENTO, VELOCIDADE MAXIMA MENSAL (AUT)(m/s);VENTO, VELOCIDADE MEDIA MENSAL (AUT)(m/s);
+2018-02-28;7;null;null;null;null;null;
+2018-03-31;4;null;null;null;null;null;
+2018-04-30;1;null;null;null;null;null;
+2018-05-31;3;47.2;954.372227;21.553401;7.7;2.747197;
+2018-06-30;2;3.8;955.572053;19.790257;7;3.05674;
+2018-07-31;0;0;955.118817;20.534409;8.3;3.036559;
+2018-08-31;8;14.6;955.024328;21.058199;9.5;3.558468;
+2018-09-30;9;137.4;951.403611;22.995707;11.2;3.242361;
+2018-10-31;16;159.4;950.17277;25.265896;10.6;2.821379;
+2018-11-30;13;242.6;949.327685;24.695814;11.5;3.007319;
+2018-12-31;8;86.2;950.706247;25.737851;8.4;2.666661;
+2019-01-31;16;234.4;952.139341;25.451917;7.8;2.328149;
+2019-02-28;11;144.4;950.409349;24.849321;9.4;2.355111;
+2019-03-31;18;58;951.952434;24.589571;8.6;2.517144;
+2019-04-30;6;null;null;24.301716;6.4;null;
+2019-05-31;null;null;null;null;null;null;
+2019-06-30;null;null;null;null;null;null;
+2019-07-31;null;null;null;null;null;null;
+2019-08-31;null;null;null;null;null;null;
+2019-09-30;null;null;null;null;null;null;
+2019-10-31;null;null;null;null;null;null;
+2019-11-30;null;null;null;null;null;null;
+2019-12-31;null;null;null;null;null;null;
+2020-01-31;null;null;null;null;null;null;
+2020-02-29;null;null;null;null;null;null;
+2020-03-31;null;null;null;null;null;null;
+2020-04-30;null;null;null;null;null;null;
+2020-05-31;null;null;null;null;null;null;
+2020-06-30;null;null;null;null;null;null;
+2020-07-31;null;null;null;null;null;null;
+2020-08-31;null;null;null;null;null;null;
+2020-09-30;null;null;null;null;null;null;
+2020-10-31;null;null;null;null;null;null;
+2020-11-30;null;null;null;null;null;null;
+2020-12-31;null;null;null;null;null;null;
+

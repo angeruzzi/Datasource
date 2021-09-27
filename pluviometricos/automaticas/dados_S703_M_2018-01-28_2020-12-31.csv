@@ -1,0 +1,48 @@
+Nome: BANDEIRANTES
+Codigo Estacao: S703
+Latitude: -19.94555555
+Longitude: -54.3686111
+Altitude: 624
+Situacao: Pane
+Data Inicial: 2018-01-28
+Data Final: 2020-12-31
+Periodicidade da Medicao: Mensal
+
+Data Medicao;NUMERO DE DIAS COM PRECIP. PLUV, MENSAL (AUT)(número);PRECIPITACAO TOTAL, MENSAL (AUT)(mm);PRESSAO ATMOSFERICA, MEDIA MENSAL (AUT)(mB);TEMPERATURA MEDIA, MENSAL (AUT)(°C);VENTO, VELOCIDADE MAXIMA MENSAL (AUT)(m/s);VENTO, VELOCIDADE MEDIA MENSAL (AUT)(m/s);
+2018-01-31;null;null;null;null;null;null;
+2018-02-28;4;null;null;null;null;null;
+2018-03-31;16;120;941.404704;24.788038;10.3;2.60457;
+2018-04-30;8;12.4;944.208056;23.166111;7.6;3.271806;
+2018-05-31;7;53.6;945.390726;21.017607;8.3;3.26828;
+2018-06-30;5;11.2;946.590278;19.884444;8.4;3.238611;
+2018-07-31;1;.8;946.11371;20.876747;9.8;2.919758;
+2018-08-31;5;36.8;946.110753;19.728629;9.5;4.004032;
+2018-09-30;12;143.6;942.490694;22.278333;10.2;3.694167;
+2018-10-31;20;196.6;941.21586;24.677823;10.4;3.296102;
+2018-11-30;16;146.4;940.427083;24.132738;12.3;3.706696;
+2018-12-31;null;null;null;null;null;null;
+2019-01-31;null;null;null;null;null;null;
+2019-02-28;null;null;null;null;null;null;
+2019-03-31;null;null;null;null;null;null;
+2019-04-30;null;null;null;null;null;null;
+2019-05-31;null;null;null;null;null;null;
+2019-06-30;null;null;null;null;null;null;
+2019-07-31;null;null;null;null;null;null;
+2019-08-31;null;null;null;null;null;null;
+2019-09-30;null;null;null;null;null;null;
+2019-10-31;null;null;null;null;null;null;
+2019-11-30;null;null;null;null;null;null;
+2019-12-31;null;null;null;null;null;null;
+2020-01-31;null;null;null;null;null;null;
+2020-02-29;null;null;null;null;null;null;
+2020-03-31;null;null;null;null;null;null;
+2020-04-30;null;null;null;null;null;null;
+2020-05-31;null;null;null;null;null;null;
+2020-06-30;null;null;null;null;null;null;
+2020-07-31;null;null;null;null;null;null;
+2020-08-31;null;null;null;null;null;null;
+2020-09-30;null;null;null;null;null;null;
+2020-10-31;null;null;null;null;null;null;
+2020-11-30;null;null;null;null;null;null;
+2020-12-31;null;null;null;null;null;null;
+
